@@ -137,7 +137,7 @@ http://localhost:3000
 ```
 
 Login with:
-- Username: Kashyadeepsinh
+- Username: Vivek
 - Password: 1234
 
 ---
